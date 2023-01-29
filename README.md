@@ -6,7 +6,6 @@
 🌱 &nbsp;Learning something new about 💻 every day.\
 🏹 &nbsp;In my free time, I 🎧, 🏃 or 📖\
 📪 &nbsp;Feel free to reach out to me if you have any questions, or a meme worth sharing.\
-🔬 &nbsp;Take a look at my [Resume](https://www.wasimbaig.com/resume.pdf) for more details. 
 
 <br />
 
@@ -61,31 +60,15 @@
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <a href="https://www.wasimbaig.com">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kingstar0126&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingstar0126&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p>
 <br />
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=simbaig&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
 </p>
-
-<br />
-<!-- 
-### 🤝🏻 &nbsp;Get in touch
-
-<p align="left">
-<a href="https://www.wasimbaig.com"><img src="https://img.shields.io/badge/-personal%20page-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wasim-ay/count.svg" />
-</p> -->
