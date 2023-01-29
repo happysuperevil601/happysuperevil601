@@ -1,4 +1,4 @@
-## Hi, I'm Wasim 👋
+## Hi, I'm Full stack developer 👋
 
 <br />
 
@@ -76,7 +76,7 @@
 </p>
 
 <br />
-
+<!-- 
 ### 🤝🏻 &nbsp;Get in touch
 
 <p align="left">
@@ -88,4 +88,4 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wasim-ay/count.svg" />
-</p>
+</p> -->
