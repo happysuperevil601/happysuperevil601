@@ -27,26 +27,6 @@
 
 <br />
 
-<!-- ### &nbsp;Worked with
-
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Storybook](https://img.shields.io/badge/-Storybook-000000?style=for-the-badge&logo=storybook&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-000000.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<br /> -->
-
 ### 💡 &nbsp;Interested in
 
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
