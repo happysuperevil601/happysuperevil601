@@ -62,7 +62,6 @@
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kingstar0126&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingstar0126&theme=radical&hide_border=true" />
-  </a>
 </p>
 <br>
 <p align="center">
