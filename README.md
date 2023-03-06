@@ -1,10 +1,5 @@
 ## Hi, I'm Full stack developer 👋
 
-This is my address: <br/>
-skype😘: live:.cid.87702686344107cf
-<br />
-gmail 📨: popstar0126@gmail.com 
-<br />
 
 💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
 🌱 &nbsp;Learning something new about 💻 every day.\
