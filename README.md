@@ -1,4 +1,4 @@
-## Hi, I'm Full stack developer 👋
+## 🔥 Hi, I'm Javascript/Typescript Engineer 💪
 
 
 💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
