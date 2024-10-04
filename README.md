@@ -1,10 +1,10 @@
 ## 🔥 Hi, I'm MERN/T3 Stack Engineer 💪
 
 
-💡 A Pragmatic Programmer
-🌱 Committed to continuous learning and enhancing my skills in technology.
-🏹 In my free time, I enjoy listening to music, running, or reading.
-📪 I welcome inquiries or discussions, and I would love to connect over a shared interest or insightful meme.
+💡 A Pragmatic Programmer<br>
+🌱 Committed to continuous learning and enhancing my skills in technology.<br>
+🏹 In my free time, I enjoy listening to music, running, or reading.<br>
+📪 I welcome inquiries or discussions, and I would love to connect over a shared interest or insightful meme.<br>
 
 Feel free to adjust any part further to better match your personal style or preferences!
 
