@@ -28,6 +28,9 @@ Feel free to adjust any part further to better match your personal style or pref
 ![Spotify](https://img.shields.io/badge/Spotify-05200F?style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 ![Mac OS](https://img.shields.io/badge/mac%20os-171717?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![T3 Stack](https://img.shields.io/badge/T3%20Stack-000000?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-00A3E0?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FB743E?style=for-the-badge&logo=Huggingface&logoColor=white)
