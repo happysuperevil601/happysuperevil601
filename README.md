@@ -1,10 +1,12 @@
 ## 🔥 Hi, I'm MERN/T3 Stack Engineer 💪
 
 
-💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
-🌱 &nbsp;Learning something new about 💻 every day.\
-🏹 &nbsp;In my free time, I 🎧, 🏃 or 📖\
-📪 &nbsp;Feel free to reach out to me if you have any questions, or a meme worth sharing.\
+💡 A Pragmatic Programmer
+🌱 Committed to continuous learning and enhancing my skills in technology.
+🏹 In my free time, I enjoy listening to music, running, or reading.
+📪 I welcome inquiries or discussions, and I would love to connect over a shared interest or insightful meme.
+
+Feel free to adjust any part further to better match your personal style or preferences!
 
 <br />
 
