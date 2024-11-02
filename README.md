@@ -1,4 +1,4 @@
-## 👋 Hi, I am an AI-driven Web and Mobile Application Developer 💻, dedicated to creating innovative solutions that enhance user experience and drive business success. 💪
+## 👋 Hi, I am an Web3 Developer 💻, dedicated to creating innovative solutions that enhance user experience and drive business success. 💪
 
 
 💡 A Pragmatic Programmer<br>
