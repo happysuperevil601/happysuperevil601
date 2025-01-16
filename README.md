@@ -4,10 +4,6 @@
 🏹 In my free time, I enjoy listening to music, running, or reading.<br>
 📪 I welcome inquiries or discussions, and I would love to connect over a shared interest or insightful meme.<br>
 
-Feel free to adjust any part further to better match your personal style or preferences!
-
-<br />
-
 #🛠  Daily drivers
 
 
