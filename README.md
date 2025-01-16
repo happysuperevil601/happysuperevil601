@@ -4,32 +4,6 @@
 🏹 In my free time, I enjoy listening to music, running, or reading.<br>
 📪 I welcome inquiries or discussions, and I would love to connect over a shared interest or insightful meme.<br>
 
-#🛠  Daily drivers
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
- 
-
- 
-<br />
-
-#💡  Interested in
-
-
-
-
-
 <br />
 
 Feel free to reach out if you’d like to collaborate on iOS projects or discuss Swift programming!
