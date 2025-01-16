@@ -1,4 +1,4 @@
-## 👋 Hi, I am an Mobile app(React Native/IONIC) Developer 💻, dedicated to creating innovative solutions that enhance user experience and drive business success. 💪
+## 👋 Hi, I am an Mobile/Web app(React Native/IONIC/MERN) Developer 💻, dedicated to creating innovative solutions that enhance user experience and drive business success. 💪
 
 
 💡 A Pragmatic Programmer<br>
