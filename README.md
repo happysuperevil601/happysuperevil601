@@ -1,4 +1,4 @@
-## 👋Hi, I am a Mobile/Web app developer specializing in React Native, IONIC, and the MERN stack. I’m dedicated to creating innovative solutions that enhance user experience and drive business success. With a keen interest in AI and Web3 technologies, I integrate cutting-edge advancements to build intelligent applications and decentralized solutions that transform user interactions and empower businesses in the digital age. 💪
+## 👋Hi, I am a Mobile/Web app developer specializing in React Native, IONIC, and the MERN stack. I’m dedicated to creating innovative solutions that enhance user experience and drive business success.💪
 
 
 💡 A Pragmatic Programmer<br>
